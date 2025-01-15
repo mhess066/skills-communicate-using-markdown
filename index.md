@@ -22,4 +22,4 @@ var myVar = "Hello, world!";
 - [ ] Turn on GitHub Pages
 - [ ] outline my portfolio
 - [ ] Introduce myself to the world
-- [ ] Noice
+- [x] Noice
