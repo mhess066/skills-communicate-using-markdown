@@ -5,3 +5,6 @@
 ###### Okay so it only works on one line. 
 
 ##### Changed some header sizes, learning how markdown works
+
+# Yaktocat
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
